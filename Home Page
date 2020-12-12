@@ -1,0 +1,127 @@
+<html lang="en">
+<head>
+  <div id="section1">
+  </div>
+  <title>Hunter's Market</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Hunter's Market</h1>
+  <p>The place to get your wildgame craving satisfied.</p> 
+</div>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+  <a class="navbar-brand" href="#"></a>
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="aboutus.html">About Us</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="menu.html">Menu</a>
+    </li>
+    <li class="nav-item"> 
+      <a class="nav-link" href="menu2.html">Menu (Continued)</a>
+    </li>
+  </ul>
+</nav>
+
+<body>
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2017%2F11%2Fnew-york-kanu-dining-coziest-restaurants-FT-SS1117.jpg" class="mx-auto d-block" alt="The Resturant" width="700" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="https://cdn02.webit.com/api/v1/Image/9D71304D651A0D1FCC40D1FCE566B919/9D71304D651A0D1FCC40D1FCE566B919.png?size=800x600" class="mx-auto d-block" alt="Guide Service" width="600" height="375">
+    </div>
+    <div class="carousel-item">
+      <img src="https://blog.opentable.com/wp-content/uploads/sites/108/2015/12/Blog-Blue-Duck-Tavern-Whole-Roasted-Duck-v.3-copy.jpeg" class="mx-auto d-block" alt="Cuisine" width="570" height="375">
+    </div>
+  </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+
+</body>
+</html>
+
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Restaurant</h3>
+      <p>The restaurant is a very conforting and the service is great. The chef cooks the food that is brought in from that day and prepares it for one of, if not, the best experiences of eating what you have caught or harvested.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Guide Service</h3>
+      <p>We use a guide service that their customers stay at the lodge and the resturant cooks what they have harvested for the day. The guide services are to go out and either harvest the local wildgame, or whatever is in season, or to go out can catch the local fish that we have. If you do not get something for that day then do not worry because we will always serve you with other nonlocal wildgame that you certainly enjoy.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>About Us</h3>        
+      <p>We are a group of people who had a great idea of opening up a place that you could go out and eat what you had harvested and that is exactly what we do here. Our team consistes four main guides and four main cooks. We have s couple of very helpful people that work for us so that we can have this operation go even more smoothly. </p>
+    </div>
+  </div>
+</div>
+  <div>
+    <img src="https://photos.smugmug.com/JCS-High-School/NewberryMathTechnology/20-21-Coding-Images/Watson/i-wpKXBp2/0/6c4f7d2d/L/Untitled%20drawing%20%281%29-L.jpg" class="float-right" width="180" height="130">
+  </div>
+  <div class="col-sm-8" id="section2">
+    <h5>Restaurant</h5>
+    <p>The restaurant is all about the experience, there will be plenty of options that you have when it come down to what you will be having. We serve lunch and supper at the restaurant and we have many sides for you to choose from and many different meals that we have, from Deer and Squirrel, to Duck and Turkey, there are so many options for you to choose from.</p>
+  </div>
+   <div>
+    <img src="https://photos.smugmug.com/JCS-High-School/NewberryMathTechnology/20-21-Coding-Images/Watson/i-hcQNVNn/0/42b5a015/L/Untitled%20drawing%20%282%29-L.jpg" class="float-right" width="160" height="120">
+  </div>
+    <div class="col-sm-12" id="section3" >
+      <h5>The Guide Service</h5>
+    <p> The guide services include one main guide and one main chef that will cook what you have harvested. We will serve you breakfast, lunch, and dinner. The dinner is what you will have harvested unless you have not gotten anything, then you will have the option to choose from the main menu.</p>
+    </div>
+ 
+   <div>
+    <img src="https://photos.smugmug.com/JCS-High-School/NewberryMathTechnology/20-21-Coding-Images/Watson/i-gftsNS3/0/da0fbf5b/L/20190420_145542000_iOS-L.jpg" class="float-right" width="110" height="150">
+  </div>
+    <div class="col-sm-8" id="section4">
+      <h5>About the team here at the Hunter's Market</h5>
+    <p>Our team of great waiters and waitresses have been trained for this and they are there to make your meal the best you have experienced. For us it is not all about the food but the atmoshpere.</p>
+    </div>
+  </div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+   <p class="text-center">Links</p>
+  <ul class="nav justify-content-center">
+    <li class="nav-item">
+       <a href="https://tpwd.texas.gov/">TPWD|</a>
+    </li>
+    <li class="nav-item">
+      <a href="https://tpwd.texas.gov/landwater/land/habitats/cross_timbers/big_game/">Big Game|</a>
+    </li>
+    <li class="nav-item">
+      <a href="https://tpwd.texas.gov/huntwild/wild/game_management/waterfowl/">Water Fowl|</a>
+    </li>
+    <li class="nav-item">
+      <a href="https://www.traveltexas.com/things-to-do/">Things to Do</a>
+    </li>
+  </ul>
+</div>
+</body>
