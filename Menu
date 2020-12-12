@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Menu</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Menu</h1>
+  <p>The Hunter's Market</p> 
+</div>
+  
+      <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+  <a class="navbar-brand" href="#"></a>
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="home.html">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="aboutus.html">About Us</a>
+    </li>
+    <li class="nav-item"> 
+      <a class="nav-link" href="menu2.html">Menu (Continued)</a>
+    </li>
+  </ul>
+</nav>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Main Dishes</h3>
+      <div class="container">
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item"><dl>
+    <dt>Wild Turkey Tenders</dt>
+    <dd>- Three wild caught turkey tenders coated in a zesty Cajun seasoning and fried to perfection.</dd></li>
+    <li class="list-group-item"><dl>
+    <dt>Swamp-Seasoned Fried Duck</dt>
+    <dd>- Localy harvested wild duck breasts tenderized and fried in a cast iron skillet until golden brown.</dd></li>
+    <li class="list-group-item"><dl>
+    <dt>Boiled Squirrel & Dumplings</dt>
+    <dd>- Fork tender squirrel served in a rich broth with melt in your mouth dumplings.</dd></li>
+    <li class="list-group-item"><dl>
+    <dt>Duck Gumbo</dt>
+    <dd>- Cooked down to perfection, these ducks are slowly simmered with onions, celery, garlic, okra, and andouille sausage with just the right amount of Cajun heat.</dd></li>
+    <li class="list-group-item"><dl>
+    <dt>Fried Deer Steak</dt>
+    <dd>- Tenderized deer steaks, lightly battered with a buttermilk and seasonings and cooked to a perfect golden brown. </dd></li>
+    <li class="list-group-item"><dl>
+    <dt>Fabulous Frog Legs</dt>
+    <dd>- Marinated frog legs coated with a spicy seasoning, then cooked in butter in a cast iron skillet 'til tender.</dd></li>
+    <li class="list-group-item"><dl>
+    <dt>Squirrel with Soup Gravy</dt>
+    <dd>- A warm and hearty meal with localy harvested squirrel with a French onion and mushroom broth and it is served over your choice of white, wild, or brown rice. </dd></li>
+    <li class="list-group-item"><dl>
+    <dt>Duck & Dressing</dt>
+    <dd>- Slowly simmered duck served with a corn bread dressing made with the duck broth that is sure to fill even the most hungry hunter. </dd></li>
+    <li class="list-group-item"><dl>
+    <dt>Armadillo Eggs</dt>
+    <dd>- Localy grown jalapeno peppers stuffed with cream cheese and wrapped in wild deer sausage and wrapped in bacon. </dd></li>
+  </ul>
+</div>
+    </div>
+    <div class="col-sm-4">
+      <h3>Sides</h3>
+ <div class="container">
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Green Beans</li>
+    <li class="list-group-item">Wild Rice</li>
+    <li class="list-group-item">Mashed Potatoes</li>
+    <li class="list-group-item">Baked Potato</li>
+    <li class="list-group-item">Salad</li>
+    <li class="list-group-item">Mac & Cheese</li>
+    <li class="list-group-item">Steamed Asparagus</li>
+    <li class="list-group-item">Steamed Broccoli</li>
+      
+    </li>
+  </dl>     
+  </ul>
+</div>
+
+    </div>
+    <div class="col-sm-4">
+      <h3>For Those Who Are Not As Adventuresome</h3>        
+ <div class="container">
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Chicken Fingers</li>
+    <li class="list-group-item">Cheese Burger</li>
+    <li class="list-group-item">Buffalo Style Wings</li>
+    <li class="list-group-item">Pepperoni Pizza</li>
+  </ul>
+</div>
+    
+    </div>
+  </div>
+</div>
+</body>
+</html>
