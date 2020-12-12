@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Menu</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Menu</h1>
+  <p>The Hunter's Market</p> 
+</div>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+  <a class="navbar-brand" href="#"></a>
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="home.html">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="aboutus.html">About Us</a>
+    </li>
+    <li class="nav-item"> 
+      <a class="nav-link" href="menu.html">Menu</a>
+    </li>
+  </ul>
+</nav>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Desserts</h3>
+      <div class="container">
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item"><dl> 
+    <dt>Chocolate Cake</dt>
+    <dd>- Three Layers of a rich chocolate cake covered in a decadent fudgy frosting.</dd></li>
+    <li class="list-group-item"><dl> 
+    <dt>Cookies-n-Cream Cake</dt>
+    <dd>- The sandwich cookies that you love made into a rich and moist cake.</dd></li>
+    <li class="list-group-item"><dl>
+    <dt>Peanut Butter Blossoms</dt>
+    <dd>- These are a a delicous little dessert if you do not want something that is too filling but you want something that is sweet. These are an amazing peanut butter cookie with chocolate kisses on top.</dd></li>
+    <li class="list-group-item"><dl>
+    <dt>Buried Cherry Cookies</dt>
+    <dd>- Each of these hidden gem cookies is topped with a bit of luscious chocolate frosting before baking. the result is chocolate cherry perfection</dd></li>
+    <li class="list-group-item"></li>
+  </ul>
+</div>
+    </div>
+    <div class="col-sm-4">
+      <h3>Drinks</h3>
+ <div class="container">
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Pepsi</li>
+    <li class="list-group-item">Diet Pepsi</li>
+    <li class="list-group-item">Sweet Tea</li>
+    <li class="list-group-item">Unsweet Tea</li>
+    <li class="list-group-item">Lemonade</li>
+    <li class="list-group-item">Milk (White & Chocolate)</li>
+    <li class="list-group-item">Coffee (Regular & Decaf.)</li>
+    <li class="list-group-item">Hot Chocolate</li>
+  </ul>
+</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
